@@ -48,8 +48,6 @@ The [`Models/Vex/` folder](./Models/VEX/) will have pre-made 3D models for VEX p
 
 The [`Models/MINDSi/` folder](./Models/MINDSi/) will have pre-made 3D models for MINDSi parts you may need replacements of. A lot of the parts you need to buy again from the official site cost a lot more than they should, so if you're okay with a small durability decrease (from injection moulding to FDM 3D Printing), you can achieve the same function for a fraction of the price. And in a pinch, too!
 
-The [`Models/MINDSi/` folder](./Models/MINDSi/) will have pre-made 3D models for MINDSi parts you may need replacements of. A lot of the parts you need to buy again from the official site cost a lot more than they should, so if you're okay with a small durability decrease (from injection moulding to FDM 3D Printing), you can achieve the same function for a fraction of the price. And in a pinch, too!
-
 The [`Models/Interfaces/` folder](./Models/Interfaces/) will have pre-made 3D printable parts you can use to interface between the MINDSi and VEX ecosystems. Keep in mind they may only fit niche use cases or could still have issues yet to be fixed! Suggestions for improvements are always welcome.
 
 In this folder I have models for certain beams, mounts, plates, covers, etc. The most important ones would probably be the Steering Bar and Servo Mount.
