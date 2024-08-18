@@ -52,7 +52,7 @@ The [`Models/Interfaces/` folder](./Models/Interfaces/) will have pre-made 3D pr
 
 In this folder I have models for certain beams, mounts, plates, covers, etc. The most important ones would probably be the Steering Bar and Servo Mount.
 
-In both of the models folders i will also include the `.FCStd` files for each model so you can edit them or make adjsutments! This is supposed to be Open Sources after all. Then of course there will be the exported, 3d-printing ready, `.stl` files.
+In both of the models folders i will also include the `.FCStd` files for each model so you can edit them or make adjsutments! This is supposed to be Open Source after all. Then of course there will be the exported, 3d-printing ready, `.stl` files.
 
 If you'd like to 3D model some custom parts, I have some info and tips that might be helpful in the [`Models/3D Modeling Resources.md` file](./Models/3D%20Modeling%20Resources.md).
 
